@@ -16,8 +16,6 @@
     
     i.e. cd backend
     
-    then do another cd backend
-    
     then run the following commands to install the packages
     
     npm i
